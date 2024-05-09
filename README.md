@@ -1,9 +1,3 @@
-# ⚠️ Project in development
-Please do not create any pull requests or issues related to the code unless the command is marked as completed. Any issues related to this project must be reported by:
-- Discord: Artiom#0001
-- Discord server: [Click Here](https://discord.gg/BVYHASDrBJ)
-- Email: artiomsiatat@gmail.com
-
 # 🤖 ArtiomsHosting-Bot 2.0
 ArtiomsHosting Bot is a discord bot relying on [discord.js](https://discord.js.org/) package. The discord bot purpose is to maintain ArtiomsHosting services allowing users to manage their accounts and servers. The bot is also capable of showing stats of nodes in realtime with an embed updating in a interval of time.
 
